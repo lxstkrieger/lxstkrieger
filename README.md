@@ -7,7 +7,7 @@
 
 - 🤝I need help **learning javascript and get better in python you can never be good enough**
 
-- 💬 Ask me about **python,pycord,**
+- 💬 Ask me about **python,pycord or how to Copy from StackOverlow**
 
 - 📫 How to reach me **discord: lxstkrieger**
 
