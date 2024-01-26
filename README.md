@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lxskrieger</h1>
 <h3 align="center">A passionate Python Developer from Germany im not the best Developer but i try my best to get better.</h3>
 
-- 🔭 I’m currently working on [Empire Discord](https://github.com/lxstkrieger/EmpireBot)
+- 🔭 I’m currently working on [Empire Discord Bot](https://github.com/lxstkrieger/EmpireBot)
 
 - 🌱 I’m currently learning **CCNA ("Cisco Certified Network Associate"), and try to get better at Javascript.**
 
