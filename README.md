@@ -3,13 +3,15 @@
 
 - 🔭 I’m currently working on [Empire Discord](https://github.com/lxstkrieger/EmpireBot)
 
-- 🌱 I’m currently learning **CCNA ("Cisco Certified Network Associate"), and try to get better at Javascript.**
+- 🌱 I’m currently learning **CCNA ("Cisco Certified Network Associate")**
 
-- 🤝I need help **learning javascript and get better in python you can never be good enough**
+- 👯 I’m looking to collaborate on [Empire Discord Bot](https://github.com/lxstkrieger/EmpireBot)
+
+- 🤝I need help **Try to get better in python you can never be good enough**
 
 - 👨‍💻 Infos about my projects are available at [https://lxstkrieger.github.io](https://lxstkrieger.github.io)
 
-- 💬 Ask me about **python,pycord,**
+- 💬 Ask me about **Python,Pycord,Homelab**
 
 - 📫 How to reach me **discord: lxstkrieger**
 
@@ -17,7 +19,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://dev.to/dashboard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/dashboard" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/jBQXd22yfe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/jBQXd22yfe" height="30" width="40" /></a>
 </p>
 
